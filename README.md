@@ -5,3 +5,6 @@
 *Sports Analytics Club at the University of Wisconsin - Madison*
 
 In this repository is the final report submitted and the python code used to come to the conclusions in the report.
+
+[Report](NFLPA%20Report.pdf)
+[Code](https://github.com/mrotblut/NFLPA-Case-Competition/blob/main/analysis.ipynb)
